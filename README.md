@@ -26,8 +26,5 @@ Processing displays radar visualization.
 2. Run Processing code
 3. Connect to correct serial port
 
-## Demo
-(Embed images/gif here)
-
 ## Author
-Nakul
+Nakulvasudev T
